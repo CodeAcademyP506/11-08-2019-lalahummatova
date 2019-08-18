@@ -1,0 +1,11 @@
+C:\Users\99455\Desktop\myfirsttask\taskim\bin\Debug\netcoreapp2.1\taskim.deps.json
+C:\Users\99455\Desktop\myfirsttask\taskim\bin\Debug\netcoreapp2.1\taskim.runtimeconfig.json
+C:\Users\99455\Desktop\myfirsttask\taskim\bin\Debug\netcoreapp2.1\taskim.runtimeconfig.dev.json
+C:\Users\99455\Desktop\myfirsttask\taskim\bin\Debug\netcoreapp2.1\taskim.dll
+C:\Users\99455\Desktop\myfirsttask\taskim\bin\Debug\netcoreapp2.1\taskim.pdb
+C:\Users\99455\Desktop\myfirsttask\taskim\obj\Debug\netcoreapp2.1\taskim.csprojAssemblyReference.cache
+C:\Users\99455\Desktop\myfirsttask\taskim\obj\Debug\netcoreapp2.1\taskim.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\myfirsttask\taskim\obj\Debug\netcoreapp2.1\taskim.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\myfirsttask\taskim\obj\Debug\netcoreapp2.1\taskim.AssemblyInfo.cs
+C:\Users\99455\Desktop\myfirsttask\taskim\obj\Debug\netcoreapp2.1\taskim.dll
+C:\Users\99455\Desktop\myfirsttask\taskim\obj\Debug\netcoreapp2.1\taskim.pdb
